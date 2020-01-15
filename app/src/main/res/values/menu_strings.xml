@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainActivity BottomNav Menu Title String   -->
+    <string name="string_activity_main_bottom_nav_home">HOME</string>
+    <string name="string_activity_main_bottom_nav_recommend">RECOMMEND</string>
+    <string name="string_activity_main_bottom_nav_leagues">LEAGUES</string>
+    <string name="string_activity_main_bottom_nav_my">MY</string>
+</resources>
